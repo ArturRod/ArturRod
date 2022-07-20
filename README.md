@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturRod&locate=es" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturRod&locale=es" >
 </div>
 
 
