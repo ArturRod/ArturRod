@@ -50,7 +50,7 @@
 
 <p align="left" style="background:yellow">
   <a href="https://es.linkedin.com/in/arturo-rodrigo-3a36b5195" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Dutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Arturo%20Rodrigo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/arturii_98" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-dutra_g07-05122A?style=flat&logo=instagram" alt="instagram"/>
