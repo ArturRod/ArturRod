@@ -1,7 +1,6 @@
 ## 😎 &nbsp;Hi , I'm Arthur 
  - 💻 I´m a programming!.
- - 🤓 I´m currently work and I´m specialized in work with C#, .NET CORE, JavaScript/TypeScript, SQL, ReactJS and Ionic.</br>
-![](https://komarev.com/ghpvc/?username=ArturRod)
+ - 🤓 I´m currently work and I´m specialized in work with C#, .NET CORE, JavaScript/TypeScript, SQL, ReactJS and Ionic.
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
@@ -11,6 +10,7 @@
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturRod&locale=en" >-->
 </div>
 
+![](https://komarev.com/ghpvc/?username=ArturRod)
 
 <!--
 ## 🛠 &nbsp;Tech Stack
