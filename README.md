@@ -22,6 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 ![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-05122A?style=flat&logo=.net)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![IONIC](https://img.shields.io/badge/-IONIC-05122A?style=flat&logo=ionic)&nbsp;
 ![TypeScrip](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-9370DB?style=flat&logo=csharp)&nbsp;
