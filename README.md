@@ -50,10 +50,10 @@
 
 <p align="left" style="background:yellow">
   <a href="https://es.linkedin.com/in/arturo-rodrigo-3a36b5195" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Arturo%20Rodrigo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/Arturo Rodrigo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/arturii_98" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-dutra_g07-05122A?style=flat&logo=instagram" alt="instagram"/>
+   <img align="center" src="https://img.shields.io/badge/-Arturii_98-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <!--<a href="https://www.youtube.com/user/Arturo " target="_blank">
    <img align="center" src="https://img.shields.io/badge/-dutra -05122A?style=flat&logo=youtube" alt="youtube"/>
