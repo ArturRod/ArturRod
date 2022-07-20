@@ -16,7 +16,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-FF5733?logo=html5&logoColor=white&style=flat)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1E90FF?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -27,9 +27,9 @@
 ![TypeScrip](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-9370DB?style=flat&logo=csharp)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-CC2927?logo=npm&logoColor=white&style=flat)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-8A2BE2?logo=bootstrap&logoColor=white&style=flat)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 <!--
 ##  💬 &nbsp;Social Links
 
