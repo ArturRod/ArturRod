@@ -1,6 +1,7 @@
 ## 😎 &nbsp;Hi , I'm Arthur 
  - 💻 I´m a programming!.
  - 🤓 I´m currently work and I´m specialized in work with C#, .NET CORE, JavaScript/TypeScript, SQL, ReactJS and Ionic.
+![](https://hit.yhype.me/github/profile?user_id=86238895)
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
