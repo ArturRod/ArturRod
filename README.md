@@ -1,5 +1,4 @@
-
- ## Hi , I'm Arthur 😎
+## Hi , I'm Arthur 😎
  - 💻 I´m a programming!.
  - 🤓 I´m currently work and I´m specialized in work with C#, .NET CORE, JavaScript/TypeScript, SQL, ReactJS and Ionic.
 ## ⚙️ &nbsp;GitHub Analytics
