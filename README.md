@@ -55,6 +55,9 @@
   <a href="https://www.instagram.com/arturii_98" target="_blank">
    <img align="center" src="https://img.shields.io/badge/arturii_98-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="instagram"/>
   </a>
+  <a href="https://stackoverflow.com/users/17311268/arturo-rodrigo" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-Arturo Rodrigo-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow"/>
+  </a>
   <!--<a href="https://www.youtube.com/user/Arturo " target="_blank">
    <img align="center" src="https://img.shields.io/badge/-dutra -05122A?style=flat&logo=youtube" alt="youtube"/>
   </a>-->
