@@ -24,7 +24,7 @@
 ![IONIC](https://img.shields.io/badge/-IONIC-05122A?style=flat&logo=ionic)&nbsp;
 ![TypeScrip](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-9370DB?style=flat&logo=csharp)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-FF6347?logo=npm&logoColor=white&style=flat)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-CC2927?logo=npm&logoColor=white&style=flat)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8A2BE2?logo=bootstrap&logoColor=white&style=flat)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
