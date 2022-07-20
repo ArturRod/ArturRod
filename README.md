@@ -2,7 +2,6 @@
  - 💻 I´m a programming!.
  - 🤓 I´m currently work and I´m specialized in work with C#, .NET CORE, JavaScript/TypeScript, SQL, ReactJS and Ionic.
 ## ⚙️ &nbsp;GitHub Analytics
-<br>
 
 <div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArturRod&show_icons=true&count_private=true&theme=vision-friendly-white&locale=en" > 
