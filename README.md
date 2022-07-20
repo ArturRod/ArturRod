@@ -42,22 +42,21 @@
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
+
 <!-- https://ileriayo.github.io/markdown-badges/ -->
-<!--
+
+
 ##  💬 &nbsp;Social Links
 
-<br>
-
 <p align="left" style="background:yellow">
-  <a href="https://linkedin.com/in/wanderson-dutra" target="_blank">
+  <a href="https://es.linkedin.com/in/arturo-rodrigo-3a36b5195" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Dutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/dutra_g07" target="_blank">
+  <a href="https://www.instagram.com/arturii_98" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-dutra_g07-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://www.youtube.com/user/wandersonrochadutra " target="_blank">
+  <!--<a href="https://www.youtube.com/user/Arturo " target="_blank">
    <img align="center" src="https://img.shields.io/badge/-dutra -05122A?style=flat&logo=youtube" alt="youtube"/>
-  </a>
+  </a>-->
 </p>
 
--->
