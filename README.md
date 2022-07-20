@@ -10,8 +10,9 @@
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturRod&locale=en" >-->
 </div>
 
+<div align="right">
 ![](https://komarev.com/ghpvc/?username=ArturRod)
-
+</div>
 <!--
 ## 🛠 &nbsp;Tech Stack
 
