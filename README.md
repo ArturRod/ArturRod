@@ -7,7 +7,7 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArturRod&show_icons=true&count_private=true&theme=vision-friendly-white&locale=en" > 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRod&layout=compact&lang&theme=vision-friendly-white&locale=en" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturRod&locale=en" >
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturRod&locale=en" >-->
 </div>
 
 
