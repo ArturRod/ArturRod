@@ -23,7 +23,7 @@
 ![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-05122A?style=flat&logo=.net)&nbsp;
 ![IONIC](https://img.shields.io/badge/-IONIC-05122A?style=flat&logo=ionic)&nbsp;
 ![TypeScrip](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-9370DB?style=flat&logo=csharp)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-FF6347?logo=npm&logoColor=white&style=flat)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8A2BE2?logo=bootstrap&logoColor=white&style=flat)&nbsp;
 
