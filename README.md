@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 ![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-05122A?style=flat&logo=.net)&nbsp;
 ![IONIC](https://img.shields.io/badge/-IONIC-05122A?style=flat&logo=ionic)&nbsp;
 ![TypeScrip](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
